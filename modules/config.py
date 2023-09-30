@@ -25,6 +25,6 @@ Config = {
     "country": "it",
     "activation_email_addr": "ayushdeveloper001@gmail.com",
     "activation_email_pass": "doodhwala",
-    "activation_email_serv": "chrome",
+    "activation_email_serv": "null",
     "activation_email_spor": 993,
 }
